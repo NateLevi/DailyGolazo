@@ -1,0 +1,12 @@
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: cmyk;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif;
+}
+
+body, p, span, a {
+  font-family: 'Montserrat', sans-serif;
+}
