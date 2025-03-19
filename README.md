@@ -1,12 +1,8 @@
+DailyGolazo delivers standings, fixtures, and highlights for the top five European leagues and tournaments.
 
-
-# Tech used: [![My Skills](https://skillicons.dev/icons?i=html,js,nodejs)](https://skillicons.dev)
+# Tech used: [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,express)](https://skillicons.dev)
 
 # Instructions
-Click website link
-add /api/{your philosopher name here}
-It's preferable to search by last name
 
 # Usage and Installation
-1. run node server.js
-2. navigate to localhost:8000
+1. cd Client && npm install && npm run build && cd ../Server && npm i && npm install && npm start
