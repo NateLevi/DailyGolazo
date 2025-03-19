@@ -6,4 +6,4 @@ DailyGolazo delivers standings, fixtures, and highlights for the top five Europe
 1. cd client && npm install && npm run build && cd ../server && npm install && npm start
 
 # Important
-"Please note that after periods of inactivity, the site may take a few seconds to load as the Render-hosted server wakes up from sleep mode."
+Please note that after periods of inactivity, the site may take a few seconds to load as the Render-hosted server wakes up from sleep mode.
