@@ -19,42 +19,42 @@ const HomeCarousel = () => {
     >
       <SwiperSlide>
         <div className="w-full h-125 rounded-lg shadow-lg overflow-hidden">
-          <img src="public/assets/carouselPhotos/realMadrid.png" alt="Real Madrid" className="object-cover w-full h-full" />
+          <img src="/assets/carouselPhotos/realMadrid.png" alt="Real Madrid" className="object-cover w-full h-full" />
         </div>
       </SwiperSlide>
       <SwiperSlide>
         <div className="w-full h-125 rounded-lg shadow-lg overflow-hidden">
-          <img src="public/assets/carouselPhotos/liverpool.jpg" alt="Liverpool" className="object-cover w-full h-full" />
+          <img src="/assets/carouselPhotos/liverpool.jpg" alt="Liverpool" className="object-cover w-full h-full" />
         </div>
       </SwiperSlide>
       <SwiperSlide>
         <div className="w-full h-125 rounded-lg shadow-lg overflow-hidden">
-          <img src="public/assets/carouselPhotos/psg.jpg" alt="PSG" className="object-cover w-full h-full" />
+          <img src="/assets/carouselPhotos/psg.jpg" alt="PSG" className="object-cover w-full h-full" />
         </div>
       </SwiperSlide>
       <SwiperSlide>
         <div className="w-full h-125 rounded-lg shadow-lg overflow-hidden">
-          <img src="public/assets/carouselPhotos/bayern.jpg" alt="Bayern" className="object-cover w-full h-full" />
+          <img src="/assets/carouselPhotos/bayern.jpg" alt="Bayern" className="object-cover w-full h-full" />
         </div>
       </SwiperSlide>
       <SwiperSlide>
         <div className="w-full h-125 rounded-lg shadow-lg overflow-hidden">
-          <img src="public/assets/carouselPhotos/inter.jpg" alt="Inter" className="object-cover w-full h-full" />
+          <img src="/assets/carouselPhotos/inter.jpg" alt="Inter" className="object-cover w-full h-full" />
         </div>
       </SwiperSlide>
       <SwiperSlide>
         <div className="w-full h-125 rounded-lg shadow-lg overflow-hidden">
-          <img src="public/assets/carouselPhotos/lever.jpg" alt="Liverpool" className="object-cover w-full h-full" />
+          <img src="/assets/carouselPhotos/lever.jpg" alt="Liverpool" className="object-cover w-full h-full" />
         </div>
       </SwiperSlide>
       <SwiperSlide>
         <div className="w-full h-125 rounded-lg shadow-lg overflow-hidden">
-          <img src="public/assets/carouselPhotos/arsenal.jpg" alt="Arsenal" className="object-cover w-full h-full" />
+          <img src="/assets/carouselPhotos/arsenal.jpg" alt="Arsenal" className="object-cover w-full h-full" />
         </div>
       </SwiperSlide>
       <SwiperSlide>
         <div className="w-full h-125 rounded-lg shadow-lg overflow-hidden">
-          <img src="public/assets/carouselPhotos/barcelona.jpg" alt="Barcelona" className="object-cover w-full h-full" />
+          <img src="/assets/carouselPhotos/barcelona.jpg" alt="Barcelona" className="object-cover w-full h-full" />
         </div>
       </SwiperSlide>
       
