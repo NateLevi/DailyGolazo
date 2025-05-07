@@ -1,3 +1,4 @@
+![My Image](csswingproject.png)
 DailyGolazo delivers standings, fixtures, and highlights for the top five European leagues and tournaments.
 
 # Tech used: [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,express)](https://skillicons.dev)
